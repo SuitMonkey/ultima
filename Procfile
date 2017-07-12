@@ -1,0 +1,1 @@
+web: build/install/ultima/bin/ultima
